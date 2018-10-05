@@ -1,0 +1,11 @@
+GeneratorModel for yakindu::c {
+
+	statechart memoryled {
+
+		feature Outlet {
+			targetProject = "memoryled_final"
+			targetFolder = "memoryled"
+			libraryTargetFolder = "memoryled"
+		}
+	}
+}
